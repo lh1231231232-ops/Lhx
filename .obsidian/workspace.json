@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "雪崩笔记"
             }
-          },
-          {
-            "id": "55fdac1d28ed67a8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "雪崩论文/雪崩笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "雪崩笔记 的大纲"
             }
           }
         ],
@@ -195,12 +185,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ae3624164faf8a9",
+  "active": "5283f5d8c4fc434c",
   "lastOpenFiles": [
+    "README.md",
     "Obsidian/新建 文本文档.txt",
     "Obsidian/README.md",
     "Obsidian",
-    "README.md",
     "未命名",
     "未命名.base",
     "基础知识/工程力学.md",
