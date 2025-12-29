@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作指南.md",
-                "mode": "preview",
+                "file": "基础知识/git使用.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作指南"
+              "title": "git使用"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作指南.md",
+                "file": "基础知识/git使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "操作指南 的大纲"
+              "title": "git使用 的大纲"
             }
           }
         ],
@@ -187,22 +187,23 @@
   },
   "active": "5283f5d8c4fc434c",
   "lastOpenFiles": [
+    "基础知识/工程力学.md",
+    "基础知识/git使用.md",
+    "README.md",
+    "操作指南.md",
     "欢迎.md",
     "Conda使用.md",
-    "README.md",
     "雪崩论文/雪崩笔记.md",
     "Obsidian/新建 文本文档.txt",
     "Obsidian/README.md",
     "Obsidian",
     "未命名",
     "未命名.base",
-    "基础知识/工程力学.md",
     "CAD插件.md",
     "AsLine_v4.0_CAD地形图切剖面辅助插件.zip",
     "附件文件夹/Pasted image 20251203114043.png",
     "雪崩论文",
     "创建链接.md",
-    "操作指南.md",
     "附件文件夹/Pasted image 20251120120627.png",
     "基础知识",
     "附件文件夹",
