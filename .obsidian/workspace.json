@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "娱乐/巫师地图.md",
-                "mode": "preview",
+                "file": "基础知识/扩展脚本.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "巫师地图"
+              "title": "扩展脚本"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "娱乐/巫师地图.md",
+                "file": "基础知识/扩展脚本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "巫师地图 的大纲"
+              "title": "扩展脚本 的大纲"
             }
           }
         ],
@@ -187,11 +187,12 @@
   },
   "active": "5283f5d8c4fc434c",
   "lastOpenFiles": [
-    "附件文件夹/巫师地图.jpg",
     "雪崩论文/雪崩笔记.md",
+    "基础知识/扩展脚本.md",
+    "娱乐/巫师地图.md",
+    "附件文件夹/巫师地图.jpg",
     "附件文件夹/Pasted image 20251203114043.png",
     "附件文件夹/Pasted image 20251120120627.png",
-    "娱乐/巫师地图.md",
     "基础知识/git使用.md",
     "娱乐",
     "基础知识/工程力学.md",
