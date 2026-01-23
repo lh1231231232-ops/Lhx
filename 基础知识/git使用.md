@@ -1,8 +1,9 @@
-
-git rm -r --cached --ignore-unmatch "积雪厚度20250905" "jup" "pachong" "chartss.rar" "jup.rar" ;
-git add .gitignore ; 
-git commit -m "Remove ignored files from tracking" ;
-
-
-echo "No changes to commit" ; 
-git status --short
+---
+tags:
+  - git
+---
+# git的注册
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
